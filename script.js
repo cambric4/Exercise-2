@@ -10,7 +10,7 @@ number = Number(prompt("enter a number"));
 function numberChecker() {
 	if(number >= 10) {
 		return true;
-	} else if (number < 10){
+	} else if (number < 10>{
 		return false;
 	}
 }
